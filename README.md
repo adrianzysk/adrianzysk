@@ -1,0 +1,1 @@
+I am a novice web developer. Since 2015, programming is my passion. I finished studies in the field of computer science. Mainly I'm interested in web applications especially front-end. I would like to participate in projects that will teach me something new. I'm open to new technologies and i wish to gain more experience. I constantly develop my skills and learn quickly.
