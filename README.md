@@ -3,4 +3,5 @@
 I am a novice web developer. Since 2015 programming is my hobby. I finished studies in the field of computer science. Mainly I'm interested in web applications especially front-end. I would like to participate in projects that will teach me something new. I'm open to new technologies and i wish to gain more experience. I constantly develop my skills and learn quickly.
 
 Tech stack I use:
+<img alt="redve Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redve-dev&theme=radical&count_private=true&layout=compact" />
 
